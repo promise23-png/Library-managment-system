@@ -1,4 +1,5 @@
 Name kalkidan ambaw        ID:1501289
+
 MYLIBRARY - LIBRARY MANAGEMENT SYSTEM
 
 DESCRIPTION:
@@ -100,6 +101,10 @@ BUILD INSTRUCTIONS:
 2. Restore NuGet packages
 3. Set MyLibrary as startup project
 4. Build and run
+   
+Source
+1.chat-gpt
+2.deepseek
 
 CONTACT DETAILS:
 For support and inquiries:
