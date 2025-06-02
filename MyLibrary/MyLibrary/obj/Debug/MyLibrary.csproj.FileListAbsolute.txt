@@ -1,0 +1,14 @@
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.Up2Date
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\sol\OneDrive\Desktop\html\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LoginForm.resources
